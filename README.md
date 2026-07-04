@@ -7,6 +7,3 @@ It makes it easier to create objects for blend shapes／ブレンドシェイプ
 
 
 
-https://github.com/user-attachments/assets/8e0490b0-f715-47c0-8cf4-ac13baab0d0e
-
-
