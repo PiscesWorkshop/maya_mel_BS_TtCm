@@ -8,6 +8,7 @@ It makes it easier to create objects for blend shapes／ブレンドシェイプ
 <img width="284" height="160" alt="Prof_BS_TtCm" src="https://github.com/user-attachments/assets/b4067b74-26fa-420a-8098-0c8d4e2395a4" />
 
 
+*********************************************
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/PiscesWorkshop)
 - <Free> If you like it, please consider supporting us.
 - ＜無償＞気に入ったらサポートして下さい。
